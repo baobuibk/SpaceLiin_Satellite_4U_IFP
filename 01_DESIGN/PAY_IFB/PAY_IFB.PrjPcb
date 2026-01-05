@@ -525,6 +525,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVGYDKEZ
 
+[Document29]
+DocumentPath=PAY_IFB_VER1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BAVCQRPO
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1507,6 +1524,14 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=12V|NetColor=clYellow
+Net2=NetName=12V_IN|NetColor=$000033CC
+Net3=NetName=3V3|NetColor=$006EFF6E
+Net4=NetName=3V3_eMMC|NetColor=$00FF6E6E
+Net5=NetName=5V|NetColor=$00FFFF6E
+Net6=NetName=VBAT|NetColor=$008E00C5
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

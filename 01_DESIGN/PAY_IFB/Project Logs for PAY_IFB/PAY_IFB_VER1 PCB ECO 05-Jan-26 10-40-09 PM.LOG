@@ -1,0 +1,135 @@
+Add component: Footprint Not Found IND_C_0603
+Added Component: Designator=U?(FBGA96_9X13P5_ALL)
+Add component (AddParameter): Name = "BOM Notes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/AllianceMemory_DDR3L_8G_AS4C512M16D3LA-10BCN-BIN-BAN_Feb2019_v1.0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\AllianceMemory_DDR3L_8G_AS4C512M16D3LA-10BCN-BIN-BAN_Feb2019_v1.0.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\AS4C512M16D3LA-10BIN TFBGA-96.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\TFBGA-96_13.5x9.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "IC MEMORY AS4C512M16D3LA-10BIN DDR3L 8Gb 933MHz FBGA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Alliance Memory, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "AS4C512M16D3LA-10BIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "IC1748"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40C to +95C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TFBGA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Restricted Sourcing"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1450-1488-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AS4C512M16D3LA-10BIN TFBGA-96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Memory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AS4C512M16D3LA-10BIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin"; Value = "1.35V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin J16-1
+Add Pin To Net: Unknown Pin: Pin J16-3
+Add Pin To Net: Unknown Pin: Pin J16-4
+Add Pin To Net: Unknown Pin: Pin J16-5
+Added Pin To Net: NetName=VDDIODDR Pin=U?-A1
+Added Pin To Net: NetName=DDR_D13 Pin=U?-A2
+Added Pin To Net: NetName=DDR_D15 Pin=U?-A3
+Added Pin To Net: NetName=DDR_D12 Pin=U?-A7
+Added Pin To Net: NetName=VDDIODDR Pin=U?-A8
+Added Pin To Net: NetName=GND Pin=U?-A9
+Added Pin To Net: NetName=GND Pin=U?-B1
+Added Pin To Net: NetName=VDDIODDR Pin=U?-B2
+Added Pin To Net: NetName=GND Pin=U?-B3
+Added Pin To Net: NetName=DDR_DQS1_N Pin=U?-B7
+Added Pin To Net: NetName=DDR_D14 Pin=U?-B8
+Added Pin To Net: NetName=GND Pin=U?-B9
+Added Pin To Net: NetName=VDDIODDR Pin=U?-C1
+Added Pin To Net: NetName=DDR_D11 Pin=U?-C2
+Added Pin To Net: NetName=DDR_D9 Pin=U?-C3
+Added Pin To Net: NetName=DDR_DQS1_P Pin=U?-C7
+Added Pin To Net: NetName=DDR_D10 Pin=U?-C8
+Added Pin To Net: NetName=VDDIODDR Pin=U?-C9
+Added Pin To Net: NetName=GND Pin=U?-D1
+Added Pin To Net: NetName=VDDIODDR Pin=U?-D2
+Added Pin To Net: NetName=DDR_DQM1 Pin=U?-D3
+Added Pin To Net: NetName=DDR_D8 Pin=U?-D7
+Added Pin To Net: NetName=GND Pin=U?-D8
+Added Pin To Net: NetName=VDDIODDR Pin=U?-D9
+Added Pin To Net: NetName=GND Pin=U?-E1
+Added Pin To Net: NetName=GND Pin=U?-E2
+Added Pin To Net: NetName=DDR_D0 Pin=U?-E3
+Added Pin To Net: NetName=DDR_DQM0 Pin=U?-E7
+Added Pin To Net: NetName=GND Pin=U?-E8
+Added Pin To Net: NetName=VDDIODDR Pin=U?-E9
+Added Pin To Net: NetName=VDDIODDR Pin=U?-F1
+Added Pin To Net: NetName=DDR_D2 Pin=U?-F2
+Added Pin To Net: NetName=DDR_DQS0_P Pin=U?-F3
+Added Pin To Net: NetName=DDR_D1 Pin=U?-F7
+Added Pin To Net: NetName=DDR_D3 Pin=U?-F8
+Added Pin To Net: NetName=GND Pin=U?-F9
+Added Pin To Net: NetName=GND Pin=U?-G1
+Added Pin To Net: NetName=DDR_D6 Pin=U?-G2
+Added Pin To Net: NetName=DDR_DQS0_N Pin=U?-G3
+Added Pin To Net: NetName=VDDIODDR Pin=U?-G7
+Added Pin To Net: NetName=GND Pin=U?-G8
+Added Pin To Net: NetName=GND Pin=U?-G9
+Added Pin To Net: NetName=DDR_VREF Pin=U?-H1
+Added Pin To Net: NetName=VDDIODDR Pin=U?-H2
+Added Pin To Net: NetName=DDR_D4 Pin=U?-H3
+Added Pin To Net: NetName=DDR_D7 Pin=U?-H7
+Added Pin To Net: NetName=DDR_D5 Pin=U?-H8
+Added Pin To Net: NetName=VDDIODDR Pin=U?-H9
+Added Pin To Net: NetName=GND Pin=U?-J2
+Added Pin To Net: NetName=DDR_RAS Pin=U?-J3
+Added Pin To Net: NetName=DDR_CK_P Pin=U?-J7
+Added Pin To Net: NetName=GND Pin=U?-J8
+Added Pin To Net: NetName=DDR_ODT Pin=U?-K1
+Added Pin To Net: NetName=VDDIODDR Pin=U?-K2
+Added Pin To Net: NetName=DDR_CAS Pin=U?-K3
+Added Pin To Net: NetName=DDR_CK_N Pin=U?-K7
+Added Pin To Net: NetName=VDDIODDR Pin=U?-K8
+Added Pin To Net: NetName=DDR_CKE Pin=U?-K9
+Added Pin To Net: NetName=DDR_CS Pin=U?-L2
+Added Pin To Net: NetName=DDR_WE Pin=U?-L3
+Added Pin To Net: NetName=DDR_A10 Pin=U?-L7
+Added Pin To Net: NetName=NetR57_2 Pin=U?-L8
+Added Pin To Net: NetName=GND Pin=U?-M1
+Added Pin To Net: NetName=DDR_BA0 Pin=U?-M2
+Added Pin To Net: NetName=DDR_BA2 Pin=U?-M3
+Added Pin To Net: NetName=DDR_A15 Pin=U?-M7
+Added Pin To Net: NetName=DDR_VREF Pin=U?-M8
+Added Pin To Net: NetName=GND Pin=U?-M9
+Added Pin To Net: NetName=VDDIODDR Pin=U?-N1
+Added Pin To Net: NetName=DDR_A3 Pin=U?-N2
+Added Pin To Net: NetName=DDR_A0 Pin=U?-N3
+Added Pin To Net: NetName=DDR_A12 Pin=U?-N7
+Added Pin To Net: NetName=DDR_BA1 Pin=U?-N8
+Added Pin To Net: NetName=VDDIODDR Pin=U?-N9
+Added Pin To Net: NetName=GND Pin=U?-P1
+Added Pin To Net: NetName=DDR_A5 Pin=U?-P2
+Added Pin To Net: NetName=DDR_A2 Pin=U?-P3
+Added Pin To Net: NetName=DDR_A1 Pin=U?-P7
+Added Pin To Net: NetName=DDR_A4 Pin=U?-P8
+Added Pin To Net: NetName=GND Pin=U?-P9
+Added Pin To Net: NetName=VDDIODDR Pin=U?-R1
+Added Pin To Net: NetName=DDR_A7 Pin=U?-R2
+Added Pin To Net: NetName=DDR_A9 Pin=U?-R3
+Added Pin To Net: NetName=DDR_A11 Pin=U?-R7
+Added Pin To Net: NetName=DDR_A6 Pin=U?-R8
+Added Pin To Net: NetName=VDDIODDR Pin=U?-R9
+Added Pin To Net: NetName=GND Pin=U?-T1
+Added Pin To Net: NetName=DDR_RESET Pin=U?-T2
+Added Pin To Net: NetName=DDR_A13 Pin=U?-T3
+Added Pin To Net: NetName=DDR_A14 Pin=U?-T7
+Added Pin To Net: NetName=DDR_A8 Pin=U?-T8
+Added Pin To Net: NetName=GND Pin=U?-T9
+Add Class Member: Failed to add class member : Component FB1 Ferrite Bead
+Add Class Member: Failed to add class member : Component J16 HEADER 6x1
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component U? AS4C512M16D3LA-10BIN TFBGA-96
