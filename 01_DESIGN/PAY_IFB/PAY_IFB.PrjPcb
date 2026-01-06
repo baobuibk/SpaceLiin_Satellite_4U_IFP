@@ -526,7 +526,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YVGYDKEZ
 
 [Document29]
-DocumentPath=PAY_IFB_VER1.PcbDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -540,7 +540,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BAVCQRPO
+DocumentUniqueId=XNUWCQFX
 
 [Configuration1]
 Name=Sources
@@ -1527,11 +1527,14 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=12V|NetColor=clYellow
-Net2=NetName=12V_IN|NetColor=$000033CC
-Net3=NetName=3V3|NetColor=$006EFF6E
-Net4=NetName=3V3_eMMC|NetColor=$00FF6E6E
-Net5=NetName=5V|NetColor=$00FFFF6E
-Net6=NetName=VBAT|NetColor=$008E00C5
+Net2=NetName=12V_CONN|NetColor=$006E6EFF
+Net3=NetName=12V_EXP|NetColor=clYellow
+Net4=NetName=12V_IN|NetColor=$000033CC
+Net5=NetName=3V3|NetColor=$000083FD
+Net6=NetName=3V3_eMMC|NetColor=$00FF6E6E
+Net7=NetName=5V|NetColor=$00FFFF6E
+Net8=NetName=GND|NetColor=$005C8517
+Net9=NetName=VBAT|NetColor=$008E00C5
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
