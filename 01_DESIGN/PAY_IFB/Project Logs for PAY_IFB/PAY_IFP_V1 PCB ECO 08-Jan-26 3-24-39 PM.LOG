@@ -1,0 +1,21 @@
+Added Component: Designator=J13(MOLEX_1051620001)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1051620001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1051620001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1051620001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J13-G1
+Added Pin To Net: NetName=GND Pin=J13-G2
+Added Pin To Net: NetName=GND Pin=J13-G3
+Added Pin To Net: NetName=GND Pin=J13-G4
+Added Pin To Net: NetName=NetCR2_3 Pin=J13-P1
+Added Pin To Net: NetName=NetCR2_4 Pin=J13-P2
+Added Pin To Net: NetName=NetCR2_6 Pin=J13-P3
+Added Pin To Net: NetName=3V3 Pin=J13-P4
+Added Pin To Net: NetName=NetCR1_3 Pin=J13-P5
+Added Pin To Net: NetName=GND Pin=J13-P6
+Added Pin To Net: NetName=NetCR1_6 Pin=J13-P7
+Added Pin To Net: NetName=NetCR1_1 Pin=J13-P8
+Added Pin To Net: NetName=NetJ13_P9 Pin=J13-P9
+Added Member To Class: ClassName=SDCARD Member=Component J13 Molex_1051620001
