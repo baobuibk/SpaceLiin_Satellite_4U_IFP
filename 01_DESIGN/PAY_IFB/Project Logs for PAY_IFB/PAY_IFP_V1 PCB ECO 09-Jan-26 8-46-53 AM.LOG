@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=EXP_USB_N Pin=U5-J1
+Removed Pin From Net: NetName=EXP_USB_P Pin=U5-J2
+Removed Member From Class: ClassName=TEMP Member=C151
+Removed Member From Class: ClassName=RTC Member=C157
+Removed Member From Class: ClassName=WATCHDOG Member=C159
+Removed Member From Class: ClassName=BUTTON_LED Member=C167
+Removed Member From Class: ClassName=RS485 Member=C171
+Removed Member From Class: ClassName=SAMA7D65_PIO Member=R82
+Removed Member From Class: ClassName=SDCARD Member=R156
+Removed Member From Class: ClassName=SDCARD Member=R157
+Removed Member From Class: ClassName=USB Member=R164
+Removed Member From Class: ClassName=DEBUG Member=R165
+Removed Member From Class: ClassName=TEMP Member=R176
+Removed Member From Class: ClassName=TEMP Member=R178
+Removed Member From Class: ClassName=RTC Member=R180
+Removed Member From Class: ClassName=WATCHDOG Member=R182
+Removed Member From Class: ClassName=WATCHDOG Member=R184
+Removed Member From Class: ClassName=LVDS Member=R188
+Removed Member From Class: ClassName=CAN_PHY Member=R190
+Removed Member From Class: ClassName=BUTTON_LED Member=R194
+Removed Member From Class: ClassName=BUTTON_LED Member=R196
+Removed Member From Class: ClassName=RS485 Member=R204
+Removed Member From Class: ClassName=RS422 Member=R206
+Removed Member From Class: ClassName=DIFF90 Member=USBA_N
+Removed Member From Class: ClassName=DIFF90 Member=USBA_P
+Added Pin To Net: NetName=EXP_USB_N Pin=U5-F1
+Added Pin To Net: NetName=EXP_USB_P Pin=U5-F2
+Added Pin To Net: NetName=USBB_N Pin=U5-G1
+Added Pin To Net: NetName=USBB_N Pin=U10-2
+Added Net: Name=USBB_N
+Added Pin To Net: NetName=USBB_P Pin=U5-G2
+Added Pin To Net: NetName=USBB_P Pin=U10-3
+Added Net: Name=USBB_P
+Added Differential Pair: Name=USBB
+Added Member To Class: ClassName=DEBUG Member=Component C150 1uF/20V
+Added Member To Class: ClassName=TEMP Member=Component C152 1uF/20V
+Added Member To Class: ClassName=TEMP Member=Component C154 1uF/20V
+Added Member To Class: ClassName=TEMP Member=Component C156 1uF/20V
+Added Member To Class: ClassName=RTC Member=Component C158 0.1uF/10V
+Added Member To Class: ClassName=WATCHDOG Member=Component C160 1uF/20V
+Added Member To Class: ClassName=LVDS Member=Component C162 1uF/20V
+Added Member To Class: ClassName=LVDS Member=Component C164 1uF/20V
+Added Member To Class: ClassName=CAN_PHY Member=Component C166 1uF/20V
+Added Member To Class: ClassName=BUTTON_LED Member=Component C168 2.2uF/10V
+Added Member To Class: ClassName=BUTTON_LED Member=Component C170 2.2uF/10V
+Added Member To Class: ClassName=RS485 Member=Component C172 0.1uF/10V
+Added Member To Class: ClassName=DEBUG Member=Component J14 Header 6x1
+Added Member To Class: ClassName=DEBUG Member=Component J15 Header 2x10
+Added Member To Class: ClassName=DEBUG Member=Component Q3 AO3400A
+Added Member To Class: ClassName=DEBUG Member=Component Q4 AO3400A
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component R89 22R
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component R90 4.7k
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component R127 22R
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component R129 DNP/10k
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component R133 22R
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component R134 22R
+Added Member To Class: ClassName=SDCARD Member=Component R158 DNP/10k
+Added Member To Class: ClassName=SDCARD Member=Component R159 DNP/10k
+Added Member To Class: ClassName=USB Member=Component R166 DNP/0R
+Added Member To Class: ClassName=DEBUG Member=Component R167 3.3k
+Added Member To Class: ClassName=DEBUG Member=Component R168 3.3k
+Added Member To Class: ClassName=DEBUG Member=Component R169 3.3k
+Added Member To Class: ClassName=DEBUG Member=Component R171 22R
+Added Member To Class: ClassName=DEBUG Member=Component R173 100k
+Added Member To Class: ClassName=DEBUG Member=Component R175 100k
+Added Member To Class: ClassName=DEBUG Member=Component R177 100k
+Added Member To Class: ClassName=TEMP Member=Component R179 22R
+Added Member To Class: ClassName=TEMP Member=Component R181 22R
+Added Member To Class: ClassName=RTC Member=Component R183 4.7k
+Added Member To Class: ClassName=WATCHDOG Member=Component R185 22R
+Added Member To Class: ClassName=WATCHDOG Member=Component R187 22R
+Added Member To Class: ClassName=WATCHDOG Member=Component R189 16.5k
+Added Member To Class: ClassName=LVDS Member=Component R191 100R
+Added Member To Class: ClassName=CAN_PHY Member=Component R193 22R
+Added Member To Class: ClassName=CAN_PHY Member=Component R195 60R
+Added Member To Class: ClassName=BUTTON_LED Member=Component R197 10k
+Added Member To Class: ClassName=BUTTON_LED Member=Component R199 100R
+Added Member To Class: ClassName=BUTTON_LED Member=Component R201 1k
+Added Member To Class: ClassName=BUTTON_LED Member=Component R203 2.2k
+Added Member To Class: ClassName=BUTTON_LED Member=Component R205 100R
+Added Member To Class: ClassName=RS485 Member=Component R207 10k
+Added Member To Class: ClassName=RS422 Member=Component R209 120R
+Added Member To Class: ClassName=DIFF90 Member=Wire EXP_USB_N
+Added Member To Class: ClassName=DIFF90 Member=Wire EXP_USB_P
+Added Member To Class: ClassName=DIFF90 Member=Wire USBB_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USBB_P
+Added Rule: Name=Schematic Matched Net Lengths_4
+Added Class: Name=DIFF90
