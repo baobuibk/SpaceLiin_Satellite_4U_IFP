@@ -101,23 +101,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IINFVALY
 
 [Document4]
-DocumentPath=POWER_AUX.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=22
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YFSKTKOH
-
-[Document5]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OELXXNZB
 
-[Document6]
+[Document5]
 DocumentPath=CONNECTOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGZBPBQK
 
-[Document7]
+[Document6]
 DocumentPath=PAY_IFB.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=SAMA7D65_PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEWZKRJH
 
-[Document9]
+[Document8]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWWSLYY
 
-[Document10]
+[Document9]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document11]
+[Document10]
 DocumentPath=SAMA7D65_MPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYAYKBTA
 
-[Document12]
+[Document11]
 DocumentPath=SAMA7D65_PIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUFBLVJS
 
-[Document13]
+[Document12]
 DocumentPath=SAMA7D65_DDR3L.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,6 +252,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYAYHDIB
+
+[Document13]
+DocumentPath=SDCARD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DMLEAAJZ
 
 [Document14]
 DocumentPath=eMMC.SchDoc
@@ -288,23 +288,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SPXKJCIS
 
 [Document15]
-DocumentPath=SDCARD.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DMLEAAJZ
-
-[Document16]
 DocumentPath=EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNXPWOLP
 
-[Document17]
+[Document16]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LVGOZVIY
 
-[Document18]
+[Document17]
 DocumentPath=DEBUG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKHBFGIZ
 
-[Document19]
+[Document18]
 DocumentPath=TEMP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QQCVFFVD
 
-[Document20]
+[Document19]
 DocumentPath=RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIETNJGX
 
-[Document21]
+[Document20]
 DocumentPath=WATCHDOG.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSYFSBBL
 
-[Document22]
+[Document21]
 DocumentPath=LVDS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAGNBFND
 
-[Document23]
+[Document22]
 DocumentPath=CAN_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,24 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFISEEIR
 
-[Document24]
-DocumentPath=BUTTON_LED.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=19
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XWGNPJPA
-
-[Document25]
+[Document23]
 DocumentPath=RS485.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPYCLXDV
 
-[Document26]
+[Document24]
 DocumentPath=..\PAY_IFB_LIB\IFBschelib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHPDRRPR
 
-[Document27]
+[Document25]
 DocumentPath=..\PAY_IFB_LIB\IFBpcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLFALNWU
 
-[Document28]
+[Document26]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document27]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTXOZHHS
 
-[Document30]
+[Document28]
 DocumentPath=RS422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,6 +524,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVGYDKEZ
+
+[Document29]
+DocumentPath=BUTTON_LED.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XWGNPJPA
+
+[Document30]
+DocumentPath=MOUNTING_HOLE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=22
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EQHEAIRF
 
 [Document31]
 DocumentPath=PAY_IFB_BOM.BomDoc
@@ -611,6 +611,10 @@ GenerateClassCluster=0
 DocumentUniqueId=QIIBGSYK
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
 DItemRevisionGUID=
 
@@ -1618,9 +1622,12 @@ Net5=NetName=3.3_VBAT|NetColor=$006A00A1
 Net6=NetName=3V3|NetColor=$000083FD
 Net7=NetName=3V3_eMMC|NetColor=$00FF6E6E
 Net8=NetName=5V|NetColor=$00FFFF6E
-Net9=NetName=GND|NetColor=$00727882
-Net10=NetName=VBAT|NetColor=$008E00C5
-Net11=NetName=VDDIODDR|NetColor=$0074CAFF
+Net9=NetName=DDR_VREF|NetColor=$0056007C
+Net10=NetName=GND|NetColor=$00727882
+Net11=NetName=VBAT|NetColor=$008E00C5
+Net12=NetName=VDDCORE|NetColor=$00C1D672
+Net13=NetName=VDDCPU|NetColor=$0052E7C0
+Net14=NetName=VDDIODDR|NetColor=$009DCE82
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

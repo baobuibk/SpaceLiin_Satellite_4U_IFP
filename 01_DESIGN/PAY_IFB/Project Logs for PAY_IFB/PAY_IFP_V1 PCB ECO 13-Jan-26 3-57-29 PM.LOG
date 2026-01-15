@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=BT2-1
+Removed Pin From Net: NetName=GND Pin=C169-1
+Removed Pin From Net: NetName=3V3 Pin=R197-1
+Removed Member From Class: ClassName=BUTTON_LED Member=BT2
+Removed Member From Class: ClassName=BUTTON_LED Member=C169
+Removed Member From Class: ClassName=SAMA7D65_PIO Member=R101
+Removed Member From Class: ClassName=BUTTON_LED Member=R197
+Removed Member From Class: ClassName=BUTTON_LED Member=R199
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C78 4.7uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C79 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C80 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C81 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C82 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C83 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C84 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C85 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C86 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C87 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C88 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C89 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C90 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C91 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C92 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C93 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C94 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C96 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C97 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C98 4.7uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C118 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component C119 0.1uF/10V
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component R139 240R
+Added Member To Class: ClassName=SAMA7D65_DDR3L Member=Component U6 AS4C512M16D3LA-10BIN TFBGA-96
