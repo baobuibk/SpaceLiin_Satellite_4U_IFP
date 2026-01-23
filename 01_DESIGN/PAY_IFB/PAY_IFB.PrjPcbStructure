@@ -4,7 +4,7 @@ Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CAN_PHY.Sc
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CONNECTOR_EXP.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CONNECTOR_INTERFACE.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=DEBUG_CONSOLE.SchDoc|SheetNumber=14
-Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=EEPROM.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=EEPROM.SchDoc|SheetNumber=12
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=eMMC.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=LVDS.SchDoc|SheetNumber=18
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=MOUNTING_HOLE.SchDoc|SheetNumber=23
@@ -19,5 +19,5 @@ Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=SAMA7D65_P
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=SAMA7D65_PMIC.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=SDCARD.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=TEMP.SchDoc|SheetNumber=15
-Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=USB_SWITCH.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=USB_SWITCH.SchDoc|SheetNumber=13
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=WATCHDOG.SchDoc|SheetNumber=17

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=U23-EPAD
+Change Component Footprint: Designator=J6 Old Footprint=ESQ-126-14-G-D New Footprint=SAMTEC_ESQ-126-14-G-D
+Change Component Footprint: Designator=J7 Old Footprint=ESQ-126-14-G-D New Footprint=SAMTEC_ESQ-126-14-G-D
+Add Pin To Net: Unknown Pin: Pin U23-13

@@ -288,23 +288,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SPXKJCIS
 
 [Document15]
-DocumentPath=USB_SWITCH.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=23
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PXCYKYQC
-
-[Document16]
 DocumentPath=EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,6 +303,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNXPWOLP
+
+[Document16]
+DocumentPath=USB_SWITCH.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=23
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PXCYKYQC
 
 [Document17]
 DocumentPath=DEBUG_CONSOLE.SchDoc
@@ -1603,16 +1603,17 @@ Net3=NetName=12V_EXP|NetColor=clYellow
 Net4=NetName=12V_IN|NetColor=$000033CC
 Net5=NetName=3.3_VBAT|NetColor=$006A00A1
 Net6=NetName=3V3|NetColor=$000083FD
-Net7=NetName=3V3_eMMC|NetColor=$00FF6E6E
-Net8=NetName=3V3_IC|NetColor=$00FF39BC
-Net9=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
-Net10=NetName=5V|NetColor=$00FFFF6E
-Net11=NetName=DDR_VREF|NetColor=$0056007C
-Net12=NetName=GND|NetColor=$00727882
-Net13=NetName=VBAT|NetColor=$008E00C5
-Net14=NetName=VDDCORE|NetColor=$00C1D672
-Net15=NetName=VDDCPU|NetColor=$0052E7C0
-Net16=NetName=VDDIODDR|NetColor=$009DCE82
+Net7=NetName=3V3_COM|NetColor=$00FF6EFF
+Net8=NetName=3V3_eMMC|NetColor=$00FF6E6E
+Net9=NetName=3V3_IC|NetColor=$00FF39BC
+Net10=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
+Net11=NetName=5V|NetColor=$00FFFF6E
+Net12=NetName=DDR_VREF|NetColor=$0056007C
+Net13=NetName=GND|NetColor=$00727882
+Net14=NetName=VBAT|NetColor=$008E00C5
+Net15=NetName=VDDCORE|NetColor=$00C1D672
+Net16=NetName=VDDCPU|NetColor=$0052E7C0
+Net17=NetName=VDDIODDR|NetColor=$009DCE82
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

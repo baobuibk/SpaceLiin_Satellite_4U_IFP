@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3 Pin=J9-03
+Removed Pin From Net: NetName=3V3 Pin=J9-04
+Removed Pin From Net: NetName=3V3 Pin=J9-17
+Removed Pin From Net: NetName=3V3 Pin=J9-18
+Removed Pin From Net: NetName=3V3 Pin=J11-2
+Added Pin To Net: NetName=3V3_IC_DRIVE Pin=J9-03
+Added Pin To Net: NetName=3V3_IC_DRIVE Pin=J9-04
+Added Pin To Net: NetName=3V3_IC_DRIVE Pin=J9-17
+Added Pin To Net: NetName=3V3_IC_DRIVE Pin=J9-18
+Added Pin To Net: NetName=3V3_IC_DRIVE Pin=J11-2
+Add Pin To Net: Unknown Pin: Pin U23-13
+Change Net Name : Old Net Name=3V3_IC_DRIVE New Net Name=3V3_COM
+Change Net Color : Old Net Color=RGB(138, 32, 219) New Net Color=RGB(255, 110, 255)
+Added Rule: Name=Schematic Supply Nets_17
