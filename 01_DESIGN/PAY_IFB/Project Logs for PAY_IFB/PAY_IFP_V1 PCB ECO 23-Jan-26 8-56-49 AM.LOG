@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=BT1-1
+Removed Pin From Net: NetName=GND Pin=C179-1
+Removed Pin From Net: NetName=WKUP Pin=R223-2
+Removed Member From Class: ClassName=BUTTON_LED Member=BT2
+Removed Member From Class: ClassName=BUTTON_LED Member=C180
+Removed Member From Class: ClassName=BUTTON_LED Member=R226
+Change Component Designator: OldDesignator=BT2 NewDesignator=BT1
+Change Component Designator: OldDesignator=C126 NewDesignator=C131
+Change Component Designator: OldDesignator=C127 NewDesignator=C132
+Change Component Designator: OldDesignator=C128 NewDesignator=C133
+Change Component Designator: OldDesignator=C129 NewDesignator=C134
+Change Component Designator: OldDesignator=C130 NewDesignator=C126
+Change Component Designator: OldDesignator=C131 NewDesignator=C127
+Change Component Designator: OldDesignator=C132 NewDesignator=C128
+Change Component Designator: OldDesignator=C133 NewDesignator=C129
+Change Component Designator: OldDesignator=C134 NewDesignator=C130
+Change Component Designator: OldDesignator=C138 NewDesignator=C139
+Change Component Designator: OldDesignator=C139 NewDesignator=C140
+Change Component Designator: OldDesignator=C140 NewDesignator=C141
+Change Component Designator: OldDesignator=C141 NewDesignator=C142
+Change Component Designator: OldDesignator=C142 NewDesignator=C138
+Change Component Designator: OldDesignator=C180 NewDesignator=C179
+Change Component Designator: OldDesignator=C181 NewDesignator=C180
+Change Component Designator: OldDesignator=C182 NewDesignator=C181
+Change Component Designator: OldDesignator=C183 NewDesignator=C182
+Change Component Designator: OldDesignator=C184 NewDesignator=C183
+Change Component Designator: OldDesignator=C185 NewDesignator=C184
+Change Component Designator: OldDesignator=R224 NewDesignator=R223
+Change Component Designator: OldDesignator=R225 NewDesignator=R224
+Change Component Designator: OldDesignator=R226 NewDesignator=R225
+Change Component Designator: OldDesignator=R227 NewDesignator=R226
+Change Component Designator: OldDesignator=R228 NewDesignator=R227
+Change Component Designator: OldDesignator=R229 NewDesignator=R228
+Change Component Designator: OldDesignator=R230 NewDesignator=R229
+Change Component Designator: OldDesignator=R231 NewDesignator=R230
+Change Component Designator: OldDesignator=R232 NewDesignator=R231
+Change Component Designator: OldDesignator=R233 NewDesignator=R232
+Change Component Designator: OldDesignator=R234 NewDesignator=R233
+Change Component Designator: OldDesignator=R235 NewDesignator=R234
+Change Component Designator: OldDesignator=R236 NewDesignator=R235
+Change Component Designator: OldDesignator=R237 NewDesignator=R236
+Change Component Designator: OldDesignator=R238 NewDesignator=R237
+Add Pin To Net: Unknown Pin: Pin U23-13
+Change Net Name : Old Net Name=NetBT2_2 New Net Name=NetBT1_2
+Change Net Name : Old Net Name=NetR230_1 New Net Name=NetR229_1
+Added Member To Class: ClassName=POWER Member=Component L1 SRP7050TA-220M
+Added Member To Class: ClassName=SAMA7D65_PIO Member=Component U5 SAMA7D65
