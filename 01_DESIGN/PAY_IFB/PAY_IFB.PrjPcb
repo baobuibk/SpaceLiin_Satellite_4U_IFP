@@ -1613,7 +1613,7 @@ Net13=NetName=GND|NetColor=$00727882
 Net14=NetName=VBAT|NetColor=$008E00C5
 Net15=NetName=VDDCORE|NetColor=$00C1D672
 Net16=NetName=VDDCPU|NetColor=$0052E7C0
-Net17=NetName=VDDIODDR|NetColor=$009DCE82
+Net17=NetName=VDDIODDR|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
