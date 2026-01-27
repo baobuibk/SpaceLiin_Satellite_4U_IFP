@@ -441,74 +441,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KPYCLXDV
 
 [Document24]
-DocumentPath=..\PAY_IFB_LIB\IFBschelib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FHPDRRPR
-
-[Document25]
-DocumentPath=..\PAY_IFB_LIB\IFBpcblib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NLFALNWU
-
-[Document26]
-DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document27]
-DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\new_component.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JTXOZHHS
-
-[Document28]
 DocumentPath=RS422.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVGYDKEZ
 
-[Document29]
+[Document25]
 DocumentPath=BUTTON_LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWGNPJPA
 
-[Document30]
+[Document26]
 DocumentPath=MOUNTING_HOLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQHEAIRF
 
-[Document31]
+[Document27]
 DocumentPath=PAY_IF_BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document28]
 DocumentPath=PAY_IFP_V1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIIBGSYK
 
-[Document33]
+[Document29]
 DocumentPath=BEE-1012 PAY-IF V1.0.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,8 +542,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXBPTTTX
 
-[Document34]
-DocumentPath=..\..\..\..\2_Satellite\2_COMM_V110\01_DESIGN\PAY-IF_Outline.PcbDoc
+[Document30]
+DocumentPath=G:\.shortcut-targets-by-id\14MYgUSrwwIHbL0j2LPAvszFesG1ThTVJ\PAY_IFB_LIB\IFBpcblib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -625,7 +557,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HQVGNAHT
+DocumentUniqueId=NLFALNWU
+
+[Document31]
+DocumentPath=G:\.shortcut-targets-by-id\14MYgUSrwwIHbL0j2LPAvszFesG1ThTVJ\PAY_IFB_LIB\IFBschelib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHPDRRPR
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
