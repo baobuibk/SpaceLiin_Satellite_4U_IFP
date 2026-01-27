@@ -1,0 +1,15 @@
+Record=TopLevelDocument|FileName=01 - Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=02 - PIO muxing.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=03 - Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=04 - PMIC-PWR Monitor.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=05 - SAMA7D65-MPU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=06 - SAMA7D65-DDR3L.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=07 - SAMA7D65-PIO.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=08 - Memories.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=09 - M.2-SDMMC2.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=10 - GMAC0.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=11 - GMAC1-SODIMM.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=12 - MIPI-LVDS-RGB.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=13 - USB.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=14 - mBUS-CAN.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=01 - Block Diagram.SchDoc|FileName=15 - LED-User-Debug.SchDoc|SheetNumber=15

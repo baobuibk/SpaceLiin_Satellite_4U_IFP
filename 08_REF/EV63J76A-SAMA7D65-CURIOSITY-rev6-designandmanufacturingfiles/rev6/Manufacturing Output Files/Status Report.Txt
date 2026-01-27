@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:45:05 PM On 10/16/2024
+
+Output: Generate pick and place files
+Type  : Pick Place
+From  : Variant [Standard] of PCB Document [SAMA7D65-Curiosity.PcbDoc]
+   Generated File[04-12169-REV6_Standard_PNP.txt]
+   Generated File[04-12169-REV6_Standard_PNP.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:45:12 PM On 10/16/2024

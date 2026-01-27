@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Work\OURASI-CURIOSITY\06_Hardware\REV5\DESIGN_FILES\SAMA7D65-Curiosity.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=04-12169-rev4-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=04-12169-rev4-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=04-12169-rev4-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
