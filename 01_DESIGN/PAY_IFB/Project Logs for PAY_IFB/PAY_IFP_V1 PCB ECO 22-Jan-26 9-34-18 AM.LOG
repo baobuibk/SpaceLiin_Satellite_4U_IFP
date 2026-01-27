@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=50_eMMC2 Member=SDMMC1_CLK
-Removed Member From Class: ClassName=50_eMMC2 Member=SDMMC1_CMD
-Removed Member From Class: ClassName=50_eMMC2 Member=SDMMC1_D0
-Removed Member From Class: ClassName=50_eMMC2 Member=SDMMC1_D1
-Removed Member From Class: ClassName=50_eMMC2 Member=SDMMC1_D2
-Removed Member From Class: ClassName=50_eMMC2 Member=SDMMC1_D3
-Add Pin To Net: Unknown Pin: Pin U23-13
-Change Class Name : Old Net Name=50_eMMC2 New Net Name=50_eMMC1
-Added Class: Name=50_eMMC2
