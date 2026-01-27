@@ -8,7 +8,7 @@ Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=EEPROM.Sch
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=eMMC.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=LVDS.SchDoc|SheetNumber=18
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=MOUNTING_HOLE.SchDoc|SheetNumber=23
-Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=POWER.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Power.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=PowerTree.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=RS422.SchDoc|SheetNumber=21
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=RS485.SchDoc|SheetNumber=20
