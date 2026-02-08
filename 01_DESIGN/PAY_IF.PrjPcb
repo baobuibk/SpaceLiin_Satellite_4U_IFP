@@ -577,10 +577,14 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DocumentPath=Project Outputs for PAY_IF\Design Rule Check - BEE-1012 PAY-IF V1.0.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
 DItemRevisionGUID=
 
