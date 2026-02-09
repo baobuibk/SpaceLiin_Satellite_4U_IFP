@@ -1,0 +1,4 @@
+Cannot convert the following lines in file "D:\Altium_WorkSpace\2_Satellite_1\Satellite_4U_IF_HW_1.0.0\01_DESIGN\Project Outputs for PAY_IF\BEE-1012 PAY-IF V1.0.0.apr":
+Line 34: Error Creating Aperture:  Width must be greater than 0.
+ for Dcode 53. 
+D53   ROUNDED             0.000       0.000       0.000  LINE       0.000
